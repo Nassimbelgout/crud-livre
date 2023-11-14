@@ -1,8 +1,8 @@
 <?php
 
-namespace M2i\Mvc\Model;
+namespace M2i\Crudlivre\Model;
 
-use M2i\Mvc\Database;
+use M2i\Crudlivre\Database;
 
 class Model
 {
